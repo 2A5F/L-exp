@@ -29,7 +29,11 @@
 ↖-←-←-←-←-←↙
 ```
 [Try Online](http://static.abits.io/l-exp/)  
-**lexp** ( exp_str : `string` ) => com_res : `number`
+**lexp** ( exp_str : `string` ) => com_res : `number`  
+Example:
+```javascript
+lexp('**/3+1*9 0;8,2')
+```
 <br><br><br><br><br><br>
 I bet someone already thought of this.  
 我感觉肯定早就有人想出这个了

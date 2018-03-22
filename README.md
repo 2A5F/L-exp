@@ -2,6 +2,7 @@
 ### 这是一个前缀表达式(波兰表达式)的扩展
 
 ## Syntax 语法
+> No float support temporarily
 - Default is Multiplication 默认是乘法
   ```
   1 2 = 1 * 2
